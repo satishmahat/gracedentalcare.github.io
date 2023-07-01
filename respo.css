@@ -1,0 +1,158 @@
+@media screen and (min-width: 1024px){
+    html{
+        font-size: 85%;
+    }
+    .slogan{
+        width: 40%;
+        margin-left: 1rem;
+    }
+    .box{
+        height: 35rem;
+        display: flex; 
+    }
+    #slideshow{
+        margin-top: 8.5rem;
+        transform: scale(1.2);
+    }
+    .content1{
+        display: flex;
+    }
+    .content1 img{
+        transform: scale(1.09);
+    }
+    .quote{
+        padding-top: 3rem;
+    }
+    .last{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    .fa{
+        padding: .8rem;
+        font-size: .8rem;
+        width: 6rem;
+        margin: 1rem .1rem;
+    }
+    .maps{
+        margin: 2rem;
+    }
+    .appoint{
+        margin-top: -6rem;
+        margin-left: -6rem;
+        transform: scale(.8);
+    }
+    .doc{
+        transform: scale(1.2);
+        display: block;
+    }
+    .about-para{
+        padding: 2.5rem;
+        font-size: 1.7rem;
+    }
+    .about-para2{
+        padding: 1rem;
+        font-size: 1.7rem;
+    }
+    .about-para2 h1{
+        font-size: 2.5rem;
+    }
+    .btn2{
+        width: 30%;
+        margin-left: 35%;
+    }
+}
+
+
+
+@media screen and (min-width: 780px) and (max-width: 1023px){
+    html{
+        font-size: 70%;
+    }
+    .slogan{
+        width: 40%;
+        margin-left: 1rem;
+    }
+    .box{
+        height: 40rem;
+        display: flex;
+    }
+    #slideshow{
+        margin-top: 10rem;
+        transform: scale(1.1);
+    }
+    .last{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    .fa{
+        padding: .8rem;
+        font-size: .8rem;
+        width: 6rem;
+        margin: 1rem .1rem;
+    }
+    .maps{
+        margin: 2rem;
+    }
+    .doc{
+        display: block;
+        transform: scale(0.9);
+    }
+    .about-para{
+        padding: 2.5rem;
+        font-size: 1.7rem;
+    }
+    .about-para2{
+        padding: 1rem;
+        font-size: 1.7rem;
+    }
+    .about-para2 h1{
+        font-size: 2.5rem;
+    }
+    .btn2{
+        width: 30%;
+        margin-left: 35%;
+    }
+    
+
+}
+
+
+@media screen and (max-height: 740px) {
+    html{
+        font-size: 50%;
+    }
+}
+@media screen and (min-height: 1080px) {
+    html{
+        font-size: 100%;
+    }
+}
+@media screen and (min-height: 1500px) {
+    html{
+        font-size: 120%;
+    }
+}
+
+
+
+
+
+
+@media screen and (min-width: 1920px){
+    html{
+        font-size: 110%;
+    }
+}
+@media screen and (min-width: 2560px){
+    html{
+        font-size: 120%;
+    }
+}
+@media screen and (min-width: 3840px){
+    html{
+        font-size: 170%;
+    }
+}
