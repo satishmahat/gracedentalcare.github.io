@@ -120,6 +120,17 @@
 }
 
 
+
+
+
+@media screen and (max-height: 550px) {
+    html{
+        font-size: 50%;
+    }
+    section{
+        height: 150vh;
+    }
+}
 @media screen and (max-height: 740px) {
     html{
         font-size: 50%;
