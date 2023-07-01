@@ -124,6 +124,9 @@
     html{
         font-size: 50%;
     }
+    section{
+        height: 110vh;
+    }
 }
 @media screen and (min-height: 1080px) {
     html{
