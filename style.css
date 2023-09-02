@@ -33,7 +33,7 @@ section{
     justify-content: space-between;
     align-items: center;
     height: 5rem;
-    max-height: 6rem;
+   
 }
   
 .navbar .menu-items {
@@ -196,7 +196,7 @@ section{
 .nav-container input[type="checkbox"]:checked ~ .about-content2{
     display: none;
 }
-.nav-container input[type="checkbox"]:checked ~ .servmain{
+.nav-container input[type="checkbox"]:checked ~ .main{
     display: none;
 }
 
