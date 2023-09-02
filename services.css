@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
 
 /* Design */
-*,
-*::before,
-*::after {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -20,7 +18,7 @@ section{
   position: relative;
   top: -100vh;
   margin-top: 6rem;
-  padding-top: 8rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
   font-family: 'Quicksand', serif;
   font-style: normal;
@@ -51,13 +49,11 @@ section{
 
 img {
   height: 100%;
-  max-width: 100%;
-  vertical-align: middle;
-  object-fit: fill;
+  width: 100%;
 }
 
 .card_image{
-  height: 40.5rem;
+  height: 20rem;
 }
 
 .btnx {

@@ -127,16 +127,22 @@
     html{
         font-size: 50%;
     }
-    section{
-        height: 150vh;
-    }
 }
 @media screen and (max-height: 740px) {
     html{
         font-size: 50%;
     }
     section{
-        height: 110vh;
+        height: 115vh;
+    }
+    .about-content2{
+        top: -38rem;
+    }
+    .about-content{
+        top: -38rem;
+    }
+    .footer{
+        margin-top: 4rem;
     }
 }
 @media screen and (min-height: 1080px) {
