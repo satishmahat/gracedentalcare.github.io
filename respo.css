@@ -135,15 +135,6 @@
     section{
         height: 115vh;
     }
-    .about-content2{
-        top: -38rem;
-    }
-    .about-content{
-        top: -38rem;
-    }
-    .footer{
-        margin-top: 4rem;
-    }
 }
 @media screen and (min-height: 1080px) {
     html{
